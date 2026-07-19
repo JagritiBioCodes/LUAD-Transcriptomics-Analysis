@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Integrated Computational Analysis of Lung Adenocarcinoma (LUAD)"
+message: "If you use this repository, please cite it."
+authors:
+  - family-names: Singh
+    given-names: Jagriti
+repository-code: "https://github.com/JagritiBioCodes/LUAD-Transcriptomics-Analysis"
+license: MIT
